@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Job Market Paper
-## **Transport Infrastructure Improvements, Intra-City Migration, and Spatial Sorting: Evidence from a BRT system in Buenos Aires** 
+## **Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires** 
 
 *How do improvements in the urban transport infrastructure affect spatial sorting between high- and low-skilled workers? 
 In this paper, I leverage individual level panel data on the addresses of more than two million individuals in order to study
