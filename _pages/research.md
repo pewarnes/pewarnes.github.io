@@ -10,17 +10,23 @@ author_profile: true
 
 Awarded a research grant from the CAF - Development Bank of Latin America ($15,000).
 
-*How do improvements in the urban transport infrastructure affect spatial sorting between high- and low-skilled workers? 
-In this paper, I leverage individual level panel data on the addresses of more than two million individuals in order to study
-the effect of the construction of a bus rapid transit system (BRT) in the city of Buenos Aires, Argentina, on the spatial
-reorganization of residents within the city. I then develop a dynamic quantitative spatial equilibrium model of the city
-in order to quantify the heterogenous welfare effects of this BRT system, as well as to study the effect of different
-counterfactual scenarios on the spatial sorting of workers within the city. My findings suggest that the effects of increasing
-market access on the share of high-skilled residents is increasing in the initial high-skill share of the neighborhood. For
-census tracts in neighborhoods with the lowest share of high-skill workers, an increase in market access reduced the share of
-high-skilled workers living in those census tracts. However, for census tracts with an initially high share of high-skill workers,
-an increase in market access resulted in an increase in the high-skill share. I show that these spatially differentiated effects
-led to an increase in the spatial segregation between high and low-skilled residents in the city.*
+*How do improvements in the urban transport infrastructure affect the spatial sorting of
+ residents with different levels of income and education within a city? What are the welfare
+ effects of improving urban transit once we take into account these patterns of spatial sorting?
+ In this paper, I study the effects of the construction of a bus rapid transit system (BRT) on
+ the spatial reorganization of residents within the city of Buenos Aires, Argentina. To do so,
+ I leverage an individual level panel data set of more than two million residents that with which
+ I can describe intra-city migration patterns. I first find reduced form evidence that the
+ construction of the BRT increased the spatial segregation between high and low-skilled residents
+ within the city. I then develop a dynamic quantitative spatial equilibrium model of a city with
+ heterogeneous workers that allows me to quantify the welfare effects of this BRT system while
+ taking into account these spatial sorting patterns. With this quantitative framework, I can measure
+ the average welfare gains for residents that were living near the BRT lines before these were built.
+ I find that welfare gains were very similar between high- and low-skilled workers living in the same
+ locations, but very different within skill levels across locations. Residents living near a BRT line
+ in neighborhoods with the lowest share of high-skilled residents saw welfare gains close to 1% on average,
+ while residents living near a BRT line in neighborhoods with the highest high-skilled share saw welfare
+ gains around 0.5% on average.*
 
 \[Draft coming soon\]
 
