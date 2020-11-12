@@ -15,7 +15,7 @@ Awarded a research grant from the CAF - Development Bank of Latin America ($15,0
  effects of improving urban transit once we take into account these patterns of spatial sorting?
  In this paper, I study the effects of the construction of a bus rapid transit system (BRT) on
  the spatial reorganization of residents within the city of Buenos Aires, Argentina. To do so,
- I leverage an individual level panel data set of more than two million residents that with which
+ I leverage an individual level panel data set of more than two million residents with which
  I can describe intra-city migration patterns. I first find reduced form evidence that the
  construction of the BRT increased the spatial segregation between high and low-skilled residents
  within the city. I then develop a dynamic quantitative spatial equilibrium model of a city with
