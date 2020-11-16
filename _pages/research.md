@@ -28,8 +28,6 @@ Awarded a research grant from the CAF - Development Bank of Latin America ($15,0
  while residents living near a BRT line in neighborhoods with the highest high-skilled share saw welfare
  gains around 0.5% on average.*
 
-\[Draft coming soon\]
-
 # Works in Progress
 - *Welfare and Political Consequences of Public Investment in Amenities. Evidence from Spatial Data in Argentina* (with Teresa Esteban-Casanelles), 2020.
 - *The Effects of Advertising On Product Appeal: A Spatial Discontinuity Approach*, 2019.
