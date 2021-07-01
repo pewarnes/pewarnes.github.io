@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 Welcome!
-I am a PhD Candidate in the Economics Department at Columbia University.
-My fields of research are urban economics, international trade, development economics, and applied microeconomics in general.
-I am on the job market and will be available for virtual interviews at the 2021 ASSA Meetings, and the 2020 European Job Market.
+I am an economist with research interests in Urban Economics, International Trade, Development Economics, and Applied Microeconomics in general.
+
+I recently completed my PhD in Economics at [Columbia University](https://econ.columbia.edu/).
+
+In Fall 2021, I will be joining [Aalto University](https://www.aalto.fi/en/department-of-economics) as Assistant Professor in the Department of Economics.
 
 You can find my job market paper, as well as my other research [here](/research).
