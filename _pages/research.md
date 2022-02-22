@@ -8,7 +8,7 @@ author_profile: true
 # Job Market Paper
 [<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](/files/warnes_pablo_jmp.pdf)
 
-Awarded a research grant from the CAF - Development Bank of Latin America ($15,000).
+Awarded a research grant from the CAF - Development Bank of Latin America.
 
 *How do improvements in the urban transport infrastructure affect the spatial sorting of
  residents with different levels of income and education within a city? What are the welfare
