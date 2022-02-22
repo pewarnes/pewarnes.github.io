@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 Welcome!
-I am an economist with research interests in Urban Economics, International Trade, Development Economics, and Applied Microeconomics in general.
+I am an Assistant Professor in the Department of Economics at [Aalto University](https://www.aalto.fi/en/department-of-economics). My research interests are mainly in  the fields of  Urban Economics, International Trade, Development Economics, and Applied Microeconomics in general.
 
-I recently completed my PhD in Economics at [Columbia University](https://econ.columbia.edu/).
-
-In Fall 2021, I will be joining [Aalto University](https://www.aalto.fi/en/department-of-economics) as Assistant Professor in the Department of Economics.
-
-You can find my job market paper, as well as my other research [here](/research).
+You can find the latest version of my job market paper, as well as my other research [here](/research).
