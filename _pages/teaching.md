@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Assistant Professor at Aalto University
+- *Regional and Urban Economics (PhD course)* (Spring 2022).
+- *International Trade (MSc course)* (Fall 2021). 
+
+
 ## Teaching Fellow at Columbia University
 - *Economics of New York City* for Don Davis (Spring 2020).
 - *International Trade* for Réka Juhász. (Spring 2019, Fall 2017).
