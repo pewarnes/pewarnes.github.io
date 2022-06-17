@@ -8,8 +8,6 @@ author_profile: true
 # Job Market Paper
 [<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](/files/warnes_pablo_jmp.pdf)
 
-Awarded a research grant from the CAF - Development Bank of Latin America.
-
 *How do improvements in the urban transport infrastructure affect the spatial sorting of
  residents with different levels of income and education within a city? What are the welfare
  effects of improving urban transit once we take into account these patterns of spatial sorting?
@@ -28,7 +26,9 @@ Awarded a research grant from the CAF - Development Bank of Latin America.
  while residents living near a BRT line in neighborhoods with the highest high-skilled share saw welfare
  gains around 0.5% on average.*
 
-# Works in Progress
+# Selected Works in Progress
+- *Economic Value of Public Investment in Tech Clusters* (with Facundo Albornoz, Antonio Cabrales, Guillermo Cruces and Bernardo Díaz de Astarloa), 2022.
+- *Pedestrianization and Economic Activity: Evidence from NYC Open Streets* (with Iain Bamford and Timur Abbiasov), 2022.
 - *Welfare and Political Consequences of Public Investment in Amenities. Evidence from Spatial Data in Argentina* (with Teresa Esteban-Casanelles), 2020.
 - *The Effects of Advertising On Product Appeal: A Spatial Discontinuity Approach*, 2019.
 
