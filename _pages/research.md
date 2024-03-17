@@ -17,7 +17,7 @@ author_profile: true
 # Selected Works in Progress
 - *Explaining gender differences in commuting: Evidence from Finland* (with Paula Calvo), 2024.
 - *Resilient urban road networks: Evidence from worldwide road incidents* (with Prottoy A. Akbar), 2024.
-- *Economic Value of Public Investment in Tech Clusters* (with Facundo Albornoz, Antonio Cabrales, Guillermo Cruces and Bernardo Díaz de Astarloa), 2022.
+- *Economic Value of Public Investment in Tech Clusters* (with Facundo Albornoz, Antonio Cabrales, Guillermo Cruces and Bernardo Díaz de Astarloa), 2023.
 - *The Effects of Advertising On Product Appeal: A Spatial Discontinuity Approach*, 2019.
 
 # Publications
