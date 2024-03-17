@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Assistant Professor at Aalto University
-- *Regional and Urban Economics (PhD course)* (Spring 2022).
-- *International Trade (MSc course)* (Fall 2021). 
+- *Regional and Urban Economics (PhD course)* (Spring 2022, 2023).
+- *International Trade (MSc course)* (Fall 2021-2023). 
 
 
 ## Teaching Fellow at Columbia University
