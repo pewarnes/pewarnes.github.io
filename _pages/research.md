@@ -12,11 +12,12 @@ author_profile: true
 
 [<font size="5">Bike-friendly cities: an opportunity for local businesses? Evidence from the city of Paris</font> ](/files/DSWBC_Bike_friendly_cities.pdf) (with Federica Daniele, Mariona Segú, David Bounie and Camara Youssouf), 2024.
 
-[<font size="5">Do I drive further or move closer? Evidence from car inspections and neighborhood sorting in Helsinki</font> ](/files/AAW_driving_draft.pdf) (with Arttu Ahonen and Prottoy A. Akbar), 2024.
+[<font size="5">Drivers of habit: Evidence of persistence from car inspections and neighborhood moves</font> ](/files/AAW_drivers_of_habit_2024.pdf) (with Arttu Ahonen and Prottoy A. Akbar), 2024.
 
 # Selected Works in Progress
 - *Explaining gender differences in commuting: Evidence from Finland* (with Paula Calvo), 2024.
 - *Resilient urban road networks: Evidence from worldwide road incidents* (with Prottoy A. Akbar), 2024.
+- *Do I drive further or move closer? Evidence from car inspections and neighborhood sorting in Helsinki* (with Arttu Ahonen and Prottoy A. Akbar), 2024.
 - *Economic Value of Public Investment in Tech Clusters* (with Facundo Albornoz, Antonio Cabrales, Guillermo Cruces and Bernardo Díaz de Astarloa), 2023.
 - *The Effects of Advertising On Product Appeal: A Spatial Discontinuity Approach*, 2019.
 
