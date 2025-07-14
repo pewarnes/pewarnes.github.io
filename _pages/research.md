@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 # Working Papers
-[<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](), 2024. NEW DRAFT COMING SOON
-
+[<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](), 2024. <span style="color: orange;">NEW DRAFT COMING SOON</span>
 [<font size="5">Pedestrianization and Business Visits: Evidence from NYC Open Streets</font> ](/files/ABW_open_streets_2024.pdf) (with Timur Abbiasov and Iain Bamford), 2024.
 
 [<font size="5">Bike-friendly cities: an opportunity for local businesses? Evidence from the city of Paris</font> ](/files/DSWBC_Bike_friendly_cities.pdf) (with Federica Daniele, Mariona Segú, David Bounie and Camara Youssouf), 2024.
